@@ -15,13 +15,14 @@ navigation:
   - title: Home
     url: /index.html
   - title: About
-    url: /about
+    url: /about.html
   - title: Contact
-    url: /contact
+    url: /contact.html
 
 social:
-  github: autoimmunedad
-  twitter: autoimmunedad
-  facebook: autoimmunedad
+  # github: autoimmunedad
+  # twitter: autoimmunedad
+  # facebook: autoimmunedad
+  instagram: autoimmunedad
   email: ecjane01@gmail.com
 # google_analytics: "UA-58263416-1"
