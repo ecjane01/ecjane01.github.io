@@ -1,0 +1,27 @@
+title: Auto Immune Dad
+description: One man's journey through life as a father living with multiple auto immune diseases.
+
+# url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+# paginate_path: "blog/page:num/"
+# permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: autoimmunedad
+  twitter: autoimmunedad
+  facebook: autoimmunedad
+  email: ecjane01@gmail.com
+# google_analytics: "UA-58263416-1"
