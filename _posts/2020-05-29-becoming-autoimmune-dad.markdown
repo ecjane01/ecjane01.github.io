@@ -3,7 +3,7 @@ layout: post
 title: "Becoming Autoimmune Dad"
 date: 2020-05-29
 ---
-To fully understand my daily struggle, I encourage us to watch the AT&T “just okay” commercials and feign excitement if we all only felt “just okay.” My daily struggles overtook my life. They wrapped around me preventing me from completing the simplest of tasks. They broke relationships and slowly dug a hole for me to hide.
+To fully understand my daily struggle, I encourage us to watch the <a href="https://youtu.be/zrJRcyNRmxI" target="_blank">AT&T “just okay is not okay” commercials</a> and feign excitement if we all only felt “just okay.” My daily struggles overtook my life. They wrapped around me preventing me from completing the simplest of tasks. They broke relationships and slowly dug a hole for me to hide.
 
 ## Diagnosis
 
