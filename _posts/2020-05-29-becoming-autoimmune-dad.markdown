@@ -13,6 +13,7 @@ As someone who had never heard of Hashimoto’s Disease or hypothyroidism, I ini
 
 > “Holding on is believing that there’s only a past; 
 > letting go is knowing that there’s a future.” 
+>
 > **Daphne Rose Kingma** 
 
 There is a future for people with autoimmune diseases. It is not a death sentence. It is a reality check reminding us to take care of our bodies. It is a reminder to listen to our bodies and how our choices affect them.
