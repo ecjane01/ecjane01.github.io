@@ -3,7 +3,7 @@ layout: post
 title: "Becoming Autoimmune Dad"
 date: 2020-05-29
 ---
-To fully understand my daily struggle, I encourage us to watch the <a href="https://youtu.be/zrJRcyNRmxI" target="_blank">AT&T “just okay is not okay” commercials</a> and feign excitement if we all only felt “just okay.” My daily struggles overtook my life. They wrapped around me preventing me from completing the simplest of tasks. They broke relationships and slowly dug a hole for me to hide.
+To fully understand my daily struggle, I encourage others to watch the <a href="https://youtu.be/zrJRcyNRmxI" target="_blank">AT&T “just okay is not okay” commercials</a> and feign excitement if feeling “just okay” was a good day. My daily struggles overtook my life. They wrapped around me preventing me from completing the simplest of tasks. They broke relationships and slowly dug a hole for me to hide.
 
 ## Diagnosis
 
@@ -22,7 +22,7 @@ There is a future for people with autoimmune diseases. It is not a death sentenc
 
 1.	Keep breathing – We can improve our health. Making sure we take time to breathe and remind ourselves we are strong will help smooth the road for our journey.
 2.	Seek a support system – Find a support system as we start our health journey. We can confide in local and online autoimmune disease groups consisting of others who are experiencing similar issues.
-3.	Be honest – Be honest with us. Be honest with our close friends and family. Denial will only prolong the start of our journey. 
+3.	Be honest – Be honest with ourselves. Be honest with our close friends and family. Denial will only prolong the start of our journey. 
 4.	Step-by-step – Take it one day at a time. We did not get an autoimmune disease overnight and we will not tame it in one day. “Every day in every way, I’m getting better and better.” Emile Coue
 5.	Let go – Don’t be afraid to let go of our old self. Let go of the old hobbies and find new health-focused ones. I’m sure I’ll write a post on my struggle with letting go of my craft beer hobby. 
 6.	Leave our comfort zone – Don’t be afraid to research and seek out non-conventional medicine options such as alternative and functional medicine. 
