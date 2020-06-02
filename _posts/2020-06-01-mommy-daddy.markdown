@@ -15,7 +15,7 @@ My intent is to not downplay the current situation, but to turn our focus on bei
 
 ## Embrace the moment
 
-1.	Enjoy “Me” time. We need to set aside time to be alone in thought. Let’s use this time to write, read, meditate, or just catch our breath.
+1.	<b>Enjoy “Me” time.</b> We need to set aside time to be alone in thought. Let’s use this time to write, read, meditate, or just catch our breath.
 2.	Reach out to our loved ones. Before this pandemic, we were dealing with our own issues. Now those issues may have become a heavier burden for us, so let’s reach out to loved ones to stay connected and offer support through a friendly voice and an attentive ear.
 3.	Establish a routine. Working from home with children, worrying about getting our preferred foods, or feeling alone confined in our homes is a new normal for many of us. Rethinking our routine and remembering we’re not alone in this situation will help us more than only getting through these challenging times.
 4.	Stop putting off house projects. We have had a list of projects piling up for months now. After putting up some shelves and organizing the basement, we felt a sense of accomplishment and relief.
