@@ -16,13 +16,13 @@ My intent is to not downplay the current situation, but to turn our focus on bei
 ## Embrace the moment
 
 1.	<b>Enjoy “Me” time.</b> We need to set aside time to be alone in thought. Let’s use this time to write, read, meditate, or just catch our breath.
-2.	Reach out to our loved ones. Before this pandemic, we were dealing with our own issues. Now those issues may have become a heavier burden for us, so let’s reach out to loved ones to stay connected and offer support through a friendly voice and an attentive ear.
-3.	Establish a routine. Working from home with children, worrying about getting our preferred foods, or feeling alone confined in our homes is a new normal for many of us. Rethinking our routine and remembering we’re not alone in this situation will help us more than only getting through these challenging times.
-4.	Stop putting off house projects. We have had a list of projects piling up for months now. After putting up some shelves and organizing the basement, we felt a sense of accomplishment and relief.
-5.	Play games in-person or virtually. There is no better time than the present to play UNO, put together a 1,000 piece puzzle (my wife may disagree with this one), or challenge someone to an online game.
-6.	Watch our favorite movies. If we are stuck in quarantine, we might as well introduce our families to our favorite childhood flicks or watch embarrassingly bad ones alone in our PJs (who’s going to judge?). 
-7.	Challenge ourselves. We can use this time to challenge ourselves to learn a new skill, read different book genres, try a new recipe, or commit to a new food plan such as paleo, keto, AIP. Learning a new coping method each week and dedicating time to do it could benefit our mental health.
-8.	Stay positive. Our positive mindset will help us not only maintain good mental health, but also our overall health. 
+2.	<b>Reach out to our loved ones.</b> Before this pandemic, we were dealing with our own issues. Now those issues may have become a heavier burden for us, so let’s reach out to loved ones to stay connected and offer support through a friendly voice and an attentive ear.
+3.	<b>Establish a routine.</b> Working from home with children, worrying about getting our preferred foods, or feeling alone confined in our homes is a new normal for many of us. Rethinking our routine and remembering we’re not alone in this situation will help us more than only getting through these challenging times.
+4.	<b>Stop putting off house projects.</b> We have had a list of projects piling up for months now. After putting up some shelves and organizing the basement, we felt a sense of accomplishment and relief.
+5.	<b>Play games in-person or virtually.</b> There is no better time than the present to play UNO, put together a 1,000 piece puzzle (my wife may disagree with this one), or challenge someone to an online game.
+6.	<b>Watch our favorite movies.</b> If we are stuck in quarantine, we might as well introduce our families to our favorite childhood flicks or watch embarrassingly bad ones alone in our PJs (who’s going to judge?). 
+7.	<b>Challenge ourselves.</b> We can use this time to challenge ourselves to learn a new skill, read different book genres, try a new recipe, or commit to a new food plan such as paleo, keto, AIP. Learning a new coping method each week and dedicating time to do it could benefit our mental health.
+8.	<b>Stay positive.</b> Our positive mindset will help us not only maintain good mental health, but also our overall health. 
 
 We’ve got a lot of things on our minds, but we’ll get through this together even if our clothes are out of style by the end of it. Well, I’m off to watch <a href="https://youtu.be/_pz8mbHxBWE" target="_blank">The Sandlot</a>. 
 
