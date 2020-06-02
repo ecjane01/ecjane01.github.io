@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mommy Daddy"
+title: "Mommy, Daddy!"
 date: 2020-06-01
 ---
 About a month ago our 10-month-old son woke up screaming in the middle of the night. Typically, my wife and I poke the other hoping it isn’t our turn to check on him. This time was different. Rather than his usual screeching yelps, he cried out “Mommy, Daddy!” In disbelief, we rushed to his room unable to get their fast enough to see his face and hope to hear those words again. We felt wanted. We were needed. Who knew the effect of two simple words from a child would have such a pull on us? Who knew how these words would change my perspective on being quarantined?
