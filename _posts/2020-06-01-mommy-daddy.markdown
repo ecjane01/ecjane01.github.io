@@ -24,7 +24,7 @@ My intent is to not downplay the current situation, but to turn our focus on bei
 7.	Challenge ourselves. We can use this time to challenge ourselves to learn a new skill, read different book genres, try a new recipe, or commit to a new food plan such as paleo, keto, AIP. Learning a new coping method each week and dedicating time to do it could benefit our mental health.
 8.	Stay positive. Our positive mindset will help us not only maintain good mental health, but also our overall health. 
 
-We’ve got a lot of things on our minds, but we’ll get through this together even if our clothes are out of style by the end of it. Well, I’m off to watch The Sandlot. 
+We’ve got a lot of things on our minds, but we’ll get through this together even if our clothes are out of style by the end of it. Well, I’m off to watch <a href="https://youtu.be/_pz8mbHxBWE" target="_blank">The Sandlot</a>. 
 
 ### Be safe and well my friends.
 
