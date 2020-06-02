@@ -27,3 +27,4 @@ My intent is to not downplay the current situation, but to turn our focus on bei
 We’ve got a lot of things on our minds, but we’ll get through this together even if our clothes are out of style by the end of it. Well, I’m off to watch The Sandlot. 
 
 ### Be safe and well my friends.
+
